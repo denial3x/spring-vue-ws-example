@@ -1,0 +1,16 @@
+/ws-fe/.idea/
+/ws-fe/dist/
+/ws-fe/node/
+/ws-fe/node_modules/
+/.idea/
+/pets-app/target/
+/pets-app/.mvn/wrapper/
+/pets-app/mvnw
+/pets-app/mvnw.cmd
+/pets-app/HELP.md
+/people-app/.mvn/wrapper/
+/people-app/target/
+/people-app/HELP.md
+/people-app/mvnw
+/people-app/mvnw.cmd
+/people-app/.mvn/
